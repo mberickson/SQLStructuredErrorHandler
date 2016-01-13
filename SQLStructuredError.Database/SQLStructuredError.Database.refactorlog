@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="3b9236ed-31ce-45cc-ab52-69ad76bff092" ChangeDateTime="11/20/2015 23:11:35">
+    <Property Name="ElementName" Value="[StructuredError].[AuditLog].[InputData]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[StructuredError].[AuditLog]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="InputXML" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a68aef44-56a2-4a08-bdd4-9ea78f31cf51" ChangeDateTime="11/20/2015 23:11:43">
+    <Property Name="ElementName" Value="[StructuredError].[AuditLog].[InputXML]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[StructuredError].[AuditLog]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="InputData" />
+  </Operation>
+</Operations>

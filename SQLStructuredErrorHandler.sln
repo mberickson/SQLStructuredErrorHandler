@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLStructuredError.Database", "SQLStructuredError.Database\SQLStructuredError.Database.sqlproj", "{4D3EDC61-8D6A-4AC0-82AF-5B5280388066}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLStructuredError.Test", "SQLStructuredError.Test\SQLStructuredError.Test.sqlproj", "{51CE84D8-3702-4A8D-897E-BB51ECF191C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3EDC61-8D6A-4AC0-82AF-5B5280388066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3EDC61-8D6A-4AC0-82AF-5B5280388066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3EDC61-8D6A-4AC0-82AF-5B5280388066}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4D3EDC61-8D6A-4AC0-82AF-5B5280388066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3EDC61-8D6A-4AC0-82AF-5B5280388066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3EDC61-8D6A-4AC0-82AF-5B5280388066}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{51CE84D8-3702-4A8D-897E-BB51ECF191C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CE84D8-3702-4A8D-897E-BB51ECF191C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CE84D8-3702-4A8D-897E-BB51ECF191C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{51CE84D8-3702-4A8D-897E-BB51ECF191C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CE84D8-3702-4A8D-897E-BB51ECF191C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CE84D8-3702-4A8D-897E-BB51ECF191C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
